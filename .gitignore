@@ -1,2 +1,3 @@
 12blog/.env
 
+12blog/src/appwrite/auth.js
