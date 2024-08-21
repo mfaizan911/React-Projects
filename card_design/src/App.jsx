@@ -5,7 +5,6 @@ function App() {
 
   return (
     <>
-    <Card username='Affan Chicken' btnText='Read More'/>
     <Card username='M. Fiazan'/>
     </>
   )
