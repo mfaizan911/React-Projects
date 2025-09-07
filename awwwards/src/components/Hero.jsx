@@ -3,7 +3,7 @@ import { TiLocationArrow } from 'react-icons/ti';
 import { useGSAP } from '@gsap/react';
 import { ScrollTrigger } from "gsap/all";
 import gsap from 'gsap';
-import VideoPreview from "./VideoPreview";
+//import VideoPreview from "./VideoPreview";
 import Button from './Button';
 
 gsap.registerPlugin(ScrollTrigger)
